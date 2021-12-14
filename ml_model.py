@@ -10,4 +10,4 @@ def model2():
 def model3():
 	print('add code for model 3')
 
-print('model 2 is best intyerms of accuracy')
+print('model 2 is best in terms of accuracy and model 1 interms of sensitivity')
